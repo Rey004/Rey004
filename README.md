@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Revanshu Pusadkar and I'm a Developer & Designer, from Nagpur</h2>
+<h2 align="center">Hi 👋! My name is Revanshu Pusadkar <br> I'm a Developer & Designer, from Nagpur</h2>
 
 ###
 
@@ -13,8 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rey004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rey004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rey004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rey004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Rey004&theme=tokyonight&column=8&margin-w=13&margin-h=16&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rey004&theme=tokyo-night&radius=15&area=true&hide_border=false" height="242" alt="activity-graph graph"  />
 </div>

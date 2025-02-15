@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="Rey004.png" alt="GitHub Banner" width="100%" />
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  ✦ Currently working on [Code Vantage](https://codevantage.in)<br>👨🏼‍🎓 Currently learning about Backend & Robotics<br>👨🏼‍💻 Working as a web developer since 2024 <br> <i>Trying to make an impact with my skills!!</i>
+  ✦ Currently working on Code Vantage<br>👨🏼‍🎓 Currently learning about Backend & Robotics<br>👨🏼‍💻 Working as a web developer since 2024 <br> <i>Trying to make an impact with my skills!!</i>
 </div>
 
 ###

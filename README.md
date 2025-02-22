@@ -2,17 +2,17 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Revanshu Pusadkar <br> I'm a Developer & Designer, from Nagpur</h2>
+<h2 align="left">Hi 👋! My name is Revanshu Pusadkar <br> I'm a Developer & Designer, from Nagpur</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   ✦ Currently working on <a href="https://codevantage.in/">Code Vantage</a><br>👨🏼‍🎓 Learning about Backend & Robotics<br>👨🏼‍💻 Working as a web developer since 2024 <br> <i>Trying to make an impact with my skills!!</i>
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Rey004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rey004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Rey004&theme=tokyonight&margin-w=13&margin-h=16&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -57,7 +57,7 @@
 ###
 
 # ⭐ Socials:
-<div align="center">
+<div align="left">
   <a href="https://instagram.com/revanshu_04" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
   </a>

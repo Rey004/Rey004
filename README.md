@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img align="right" height="193" src="https://media4.giphy.com/media/oOylMv2oLDxcxGzYn6/giphy.webp?cid=790b761172px50fojjy57rd4onz32x4fyt5ovivqw0m5hjl4&ep=v1_stickers_search&rid=giphy.webp&ct=s"  />
+  <img align="right" height="193" src="Rey_Favicon.webp"  />
   <div align="left">
     ✦ Currently working on <a href="https://codevantage.in/">Code Vantage</a><br>👨🏼‍🎓 Learning about Backend & Robotics<br>👨🏼‍💻 Working as a web developer since 2024 <br> <i>Trying to make an impact with my skills!!</i>
   </div>

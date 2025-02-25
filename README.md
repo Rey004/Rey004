@@ -83,7 +83,6 @@
 
 <br clear="both">
   <h1></h1>
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rey004/Rey004/output/github-snake-dark.svg" />

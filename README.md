@@ -7,13 +7,22 @@
 ###
 
 <div align="center">
-  <img align="right" height="100" src="REY_Favicon.webp"  />
+  <img align="right" height="150" src="REY_Favicon.webp"  />
   <div align="left">
     ✦ Currently working on <a href="https://codevantage.in/">Code Vantage</a><br>👨🏼‍🎓 Learning about Backend & Robotics<br>👨🏼‍💻 Working as a web developer since 2024 <br> <i>Trying to make an impact with my skills!!</i>
-  </div>
-</div>
 
 ###
+    
+<div align="left">
+
+[![instagram logo](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/revanshu_04)
+[![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:revanshu444@gmail.com)
+[![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/revanshu)
+
+  </div>
+</div>
+  <h1></h1>
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rey004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -71,17 +80,10 @@
 </div>
 
 ###
-<div align="center">
-  
+
 <br clear="both">
   <h1></h1>
 <br clear="both">
-
-[![instagram logo](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/revanshu_04)
-[![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:revanshu444@gmail.com)
-[![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/revanshu)
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rey004/Rey004/output/github-snake-dark.svg" />

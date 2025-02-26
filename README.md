@@ -70,6 +70,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" /><br><sub><sup>React Router</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /><br><sub><sup>JSON</td>
   </tr>
 </table>
 

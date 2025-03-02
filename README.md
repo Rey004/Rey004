@@ -71,6 +71,7 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" /><br><sub><sup>React Router</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /><br><sub><sup>JSON</td>
+    <td align="center"><img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/226579.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTc0MTE3ODkxOCwicSI6bnVsbCwiaWF0IjoxNzQwOTE5NzE4fQ__.df6befd5435f9d43e256d432c55bca12a5e147c8afa5c47f239fbb9afffdb9d5" height="35" class="p-5-5 image_3l786"><br><sub><sup>Shopify</td>
   </tr>
 </table>
 

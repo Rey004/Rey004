@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />! Tech Enthusiast here, from Nagpur</h2>
+<h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />! Revanshu here, from Nagpur</h2>
 
 ###
 

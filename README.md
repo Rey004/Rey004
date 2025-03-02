@@ -45,33 +45,33 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /><br><sub><sup>CSS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /><br><sub><sup>C</td>
     <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  /><br><sub><sup>Figma</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /><br><sub><sup>Node JS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30"/><br><sub><sup>Node JS</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  /><br><sub><sup>Arduino IDE</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /><br><sub><sup>Java</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /><br><sub><sup>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /><br><sub><sup>Mongo DB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30"/><br><sub><sup>Mongo DB</td>
   </tr>
   <tr>
     <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  /><br><sub><sup>Github</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  /><br><sub><sup>Wordpress</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /><br><sub><sup>Express JS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" /><br><sub><sup>Vercel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30"/><br><sub><sup>Express JS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="30"/><br><sub><sup>Vercel</td>
   </tr>
 </table>
 
 <table align="right">
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" ><br><sub><sup>Next.js</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vite" alt="vite logo" ><br><sub><sup>Vite</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"><br><sub><sup>Tailwind CSS</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" height="30"><br><sub><sup>Next.js</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vite" alt="vite logo" height="30"><br><sub><sup>Vite</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo" height="30"><br><sub><sup>Tailwind CSS</td>
     <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" alt="woocommerce logo"  /><br><sub><sup>Woocommerce</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" /><br><sub><sup>React Router</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /><br><sub><sup>JSON</td>
-    <td align="center"><img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/226579.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTc0MTE3ODkxOCwicSI6bnVsbCwiaWF0IjoxNzQwOTE5NzE4fQ__.df6befd5435f9d43e256d432c55bca12a5e147c8afa5c47f239fbb9afffdb9d5" height="35" class="p-5-5 image_3l786"><br><sub><sup>Shopify</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="30" /><br><sub><sup>React Router</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="30" /><br><sub><sup>JSON</td>
+    <td align="center"><img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/226579.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTc0MTE3ODkxOCwicSI6bnVsbCwiaWF0IjoxNzQwOTE5NzE4fQ__.df6befd5435f9d43e256d432c55bca12a5e147c8afa5c47f239fbb9afffdb9d5" height="30" class="p-5-5 image_3l786"><br><sub><sup>Shopify</td>
   </tr>
 </table>
 

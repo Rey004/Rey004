@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://revanshu.me"><img align="right" width="175" src="fav.webp"  /></a>
   <div align="left">
-    ✦ Currently working on <a href="https://codevantage.in/">Code Vantage</a><br>👨🏼‍🎓 Learning about Backend & Robotics<br>👨🏼‍💻 Working as a web developer since 2024 <br> <i>"Trying to make an impact with my skills!!"</i>
+    ✦ Currently focusing on building some projects !! <!--<a href="https://codevantage.in/">Code Vantage</a>--><br>👨🏼‍🎓 Learning about Backend & Robotics<br>👨🏼‍💻 Working as a web developer since 2024 <br> <i>"Passionate about clean, user-friendly UIs"</i>
 
 ###
     

@@ -62,7 +62,7 @@
 
 <div align="center">  
 <br>
-<img align="center" width="20%"  src="https://media4.giphy.com/media/oOylMv2oLDxcxGzYn6/giphy.webp?cid=790b761172px50fojjy57rd4onz32x4fyt5ovivqw0m5hjl4&ep=v1_stickers_search&rid=giphy.webp&ct=s" />
+<img align="center" width="30%"  src="https://media4.giphy.com/media/oOylMv2oLDxcxGzYn6/giphy.webp?cid=790b761172px50fojjy57rd4onz32x4fyt5ovivqw0m5hjl4&ep=v1_stickers_search&rid=giphy.webp&ct=s" />
 </div>
 </div>
 

@@ -12,7 +12,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://revanshu-portfolio.vercel.app"><img align="right" width="200" src="fav.webp"  /></a>
+  <a href="https://revanshu-portfolio.vercel.app"><img align="right" width="150" src="fav.webp" /></a>
+
 <p align="left">
   <a href="#">
     <img
@@ -25,52 +26,88 @@
 <p align="left">
   <code>●&nbsp;online</code> &nbsp;
   <code>◐&nbsp;always&nbsp;tinkering</code> &nbsp;
-  <code>◑&nbsp;coffee.sh&nbsp;running</code> &nbsp;
-  <code>◉&nbsp;flow&nbsp;state</code> &nbsp;
-  <code>⌁&nbsp;late-night&nbsp;mode</code> &nbsp;
-  <code>✦&nbsp;open&nbsp;to&nbsp;collab</code> &nbsp;
-  <code>↻&nbsp;auto-refactoring&nbsp;life</code> &nbsp;
-  <code>⏻&nbsp;never&nbsp;sleeps</code>
+  <code>◌&nbsp;open&nbsp;to&nbsp;collab</code>
 </p>
 </div>
+
+<br/>
+
+<!-- ══════════════ ASCII MACHINE ══════════════ -->
+<pre align="center">
+   ┌────────────────────────────────────┐
+   │  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+   │  ░                              ░  │
+   │  ░   > rey@machine ~ % _        ░  │
+   │  ░   building.exe  ·  running   ░  │
+   │  ░                              ░  │
+   │  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+   └──────────────┬─────────────────────┘
+   ╔══════════════╧═════════════════════╗
+   ║     ▢   ▢   ▢            [ ⏻ ]    ║
+   ╚════════════════════════════════════╝
+</pre>
+
+<!-- ══════════════ ABOUT + PROJECTS SIDE BY SIDE ══════════════ -->
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### `~ $ cat about.txt`
 
 ```txt
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   >  hi, i'm rey.                                                    │
-│   >  i build things on the internet that feel a little different.    │
-│                                                                      │
-│   ─  experimental ui · browser experiences · gamified interfaces     │
-│   ─  obsessed with aesthetics, motion, and small details             │
-│   ─  most ideas spawn at 2 a.m. and refuse to leave                  │
-│   ─  i ship slow, polish hard, and care about the vibe               │
-│                                                                      │
-│   $  currently  →  building memorable internet experiences           │
-│   $  learning   →  shaders, motion design, system aesthetics         │
-│   $  fueled by  →  lo-fi, midnight tabs, and good typography         │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────┐
+│                                    │
+│  > hi, i'm rey.                    │
+│  > i build things on the internet  │
+│    that feel a little different.   │
+│                                    │
+│  ─ experimental ui                 │
+│  ─ browser experiences             │
+│  ─ gamified interfaces             │
+│  ─ aesthetic digital products      │
+│                                    │
+│  $ currently → memorable web exp   │
+│  $ learning  → shaders, motion     │
+│  $ fueled by → lo-fi + midnight    │
+│                                    │
+└────────────────────────────────────┘
 ```
+
+</td>
+<td valign="top" width="50%">
 
 ### `~ $ ls projects/`
 
-```
-┌─ projects ───────────────────────────────────────────────────────────┐
-│                                                                      │
-│  ▸ browser-os/        ░░  experimental desktop running in a tab      │
-│  ▸ cursor-lab/        ▒░  playground for custom cursor systems       │
-│  ▸ type-engine/       ▒▒  generative typography for the web          │
-│  ▸ terminal-ui-kit/   ▓▒  minimal components with shell aesthetics   │
-│  ▸ midnight-board/    ▓▓  ambient dashboard for personal flow state  │
-│                                                                      │
-│  status:  5 active  ·  ∞ in the backlog  ·  always one more idea     │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+```txt
+┌─ projects ─────────────────────────┐
+│                                    │
+│  ▸ browser-os/      ░░             │
+│    desktop in a tab                │
+│                                    │
+│  ▸ cursor-lab/      ▒░             │
+│    custom cursor systems           │
+│                                    │
+│  ▸ type-engine/     ▒▒             │
+│    generative typography           │
+│                                    │
+│  ▸ terminal-ui-kit/ ▓▒             │
+│    minimal shell components        │
+│                                    │
+│  ▸ midnight-board/  ▓▓             │
+│    ambient flow dashboard          │
+│                                    │
+│  status: 5 active · ∞ in backlog   │
+│                                    │
+└────────────────────────────────────┘
 ```
 
+</td>
+</tr>
+</table>
+
 <sub>↳ <code>cd</code> into any of them on the <a href="https://github.com/Rey004?tab=repositories">repos tab</a>.</sub>
+
+<br/><br/>
 
 <p align="center">
   <a href="https://github.com/Rey004">
@@ -81,6 +118,7 @@
     />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Rey004">
     <img

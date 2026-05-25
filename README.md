@@ -4,33 +4,32 @@
     <img
       width="100%"
       alt="welcome banner"
-      src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=240&section=header&text=welcome%20to%20the%20machine&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=38&desc=%7C%20creative%20developer%20%C2%B7%20late-night%20builder%20%7C&descAlign=50&descAlignY=62&descSize=14&animation=fadeIn"
+      src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=welcome%20to%20the%20machine&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=40&desc=%7C%20creative%20developer%20%C2%B7%20late-night%20builder%20%7C&descAlign=50&descAlignY=66&descSize=14&animation=fadeIn"
     />
   </a>
 </p>
 
-<br/>
+<!-- ══════════════ INTRO ROW ══════════════ -->
+<a href="https://revanshu-portfolio.vercel.app">
+  <img align="right" width="140" src="fav.webp" alt="rey" />
+</a>
 
-<div align="center">
-  <a href="https://revanshu-portfolio.vercel.app"><img align="right" width="120" src="fav.webp" /></a>
-
-<p align="left">
+<p>
   <a href="#">
     <img
       alt="typing intro"
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&height=42&lines=initializing+system...;welcome+to+the+machine.;late-night+experiments+loading...;building+things+that+feel+different."
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FFFFFF&width=520&height=42&lines=initializing+system...;welcome+to+the+machine.;late-night+experiments+loading...;building+things+that+feel+different."
     />
   </a>
 </p>
 
-<p align="left">
+<p>
   <code>●&nbsp;online</code> &nbsp;
   <code>◐&nbsp;always&nbsp;tinkering</code> &nbsp;
   <code>◌&nbsp;open&nbsp;to&nbsp;collab</code>
 </p>
-</div>
 
-<br/>
+<br clear="all"/>
 
 <!-- ══════════════ ABOUT + PROJECTS SIDE BY SIDE ══════════════ -->
 <table width="100%">
@@ -41,20 +40,18 @@
 
 ```txt
 ┌──────────────────────────────────────────────────┐
-│                                                  │
 │  > hi, i'm rey.                                  │
-│  > i build things on the internet that feel      │
-│    a little different.                           │
+│  > building things on the internet that          │
+│    feel a little different.                      │
 │                                                  │
-│  ─ experimental ui                               │
-│  ─ browser experiences                           │
-│  ─ gamified interfaces                           │
-│  ─ aesthetic digital products                    │
+│  ─ experimental ui · browser experiences         │
+│  ─ gamified interfaces · aesthetic products      │
+│  ─ obsessed with motion + small details          │
+│  ─ ship slow · polish hard · keep the vibe       │
 │                                                  │
 │  $ currently → memorable internet experiences    │
 │  $ learning  → shaders, motion, system design    │
 │  $ fueled by → lo-fi, midnight tabs, typography  │
-│                                                  │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -65,24 +62,18 @@
 
 ```txt
 ┌─ projects ───────────────────────────────────────┐
-│                                                  │
 │  ▸ browser-os/        ░░                         │
 │    experimental desktop running in a tab         │
-│                                                  │
 │  ▸ cursor-lab/        ▒░                         │
 │    playground for custom cursor systems          │
-│                                                  │
 │  ▸ type-engine/       ▒▒                         │
 │    generative typography for the web             │
-│                                                  │
 │  ▸ terminal-ui-kit/   ▓▒                         │
 │    minimal components with shell aesthetics      │
-│                                                  │
 │  ▸ midnight-board/    ▓▓                         │
 │    ambient dashboard for personal flow state     │
 │                                                  │
 │  status: 5 active  ·  ∞ in the backlog           │
-│                                                  │
 └──────────────────────────────────────────────────┘
 ```
 

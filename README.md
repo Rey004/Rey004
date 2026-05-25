@@ -35,18 +35,19 @@
 
 ```txt
 ┌──────────────────────────────────────────────────┐
-│  > hi, i'm rey.                                  │
-│  > building things on the internet that          │
-│    feel a little different.                      │
+│  > hi, i'm revanshu.                             │
+│  > always trying to build fun things             │
+│    that can wow people.                          │
 │                                                  │
-│  ─ experimental ui · browser experiences         │
-│  ─ gamified interfaces · aesthetic products      │
-│  ─ obsessed with motion + small details          │
-│  ─ ship slow · polish hard · keep the vibe       │
+│  ─ tech · business                               │
+│  ─ content creation                              │
+│  ─ design / art                                  │
+│  ─ night owl trying to become an early bird      │
 │                                                  │
-│  $ currently → memorable internet experiences    │
-│  $ learning  → shaders, motion, system design    │
-│  $ fueled by → lo-fi, midnight tabs, typography  │
+│  $ currently → DinoDash · chrome extension       │
+│  $ learning  → soft skills + content creation    │
+│  $ fueled by → music, workouts, late-night runs  │
+│  $ location  → india // mostly online            │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -57,18 +58,19 @@
 
 ```txt
 ┌─ projects ───────────────────────────────────────┐
-│  ▸ browser-os/        ░░                         │
-│    experimental desktop running in a tab         │
-│  ▸ cursor-lab/        ▒░                         │
-│    playground for custom cursor systems          │
-│  ▸ type-engine/       ▒▒                         │
-│    generative typography for the web             │
-│  ▸ terminal-ui-kit/   ▓▒                         │
-│    minimal components with shell aesthetics      │
-│  ▸ midnight-board/    ▓▓                         │
-│    ambient dashboard for personal flow state     │
+│  ▸ DinoDash/            ▒▒  building             │
+│    chrome dino reimagined for your new tab       │
 │                                                  │
-│  status: 5 active  ·  ∞ in the backlog           │
+│  ▸ Code-Vantage/        ▓▓  live                 │
+│    3d interactive web design agency site         │
+│                                                  │
+│  ▸ ──────────/          ░░  coming soon          │
+│    placeholder · slot reserved                   │
+│                                                  │
+│  ▸ ──────────/          ░░  coming soon          │
+│    placeholder · slot reserved                   │
+│                                                  │
+│  status: 2 active  ·  ∞ in the backlog           │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -76,7 +78,14 @@
 </tr>
 </table>
 
-<sub>↳ <code>cd</code> into any of them on the <a href="https://github.com/Rey004?tab=repositories">repos tab</a>.</sub>
+<sub>
+  ↳ open
+  <a href="https://github.com/Rey004/DinoDash"><code>DinoDash</code></a>
+  ·
+  <a href="https://codevantage.in/"><code>Code-Vantage</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Rey004?tab=repositories">all repos →</a>
+</sub>
 
 <br/><br/>
 

@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://revanshu-portfolio.vercel.app"><img align="right" width="150" src="fav.webp" /></a>
+  <a href="https://revanshu-portfolio.vercel.app"><img align="right" width="120" src="fav.webp" /></a>
 
 <p align="left">
   <a href="#">
@@ -32,45 +32,30 @@
 
 <br/>
 
-<!-- ══════════════ ASCII MACHINE ══════════════ -->
-<pre align="center">
-   ┌────────────────────────────────────┐
-   │  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
-   │  ░                              ░  │
-   │  ░   > rey@machine ~ % _        ░  │
-   │  ░   building.exe  ·  running   ░  │
-   │  ░                              ░  │
-   │  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
-   └──────────────┬─────────────────────┘
-   ╔══════════════╧═════════════════════╗
-   ║     ▢   ▢   ▢            [ ⏻ ]    ║
-   ╚════════════════════════════════════╝
-</pre>
-
 <!-- ══════════════ ABOUT + PROJECTS SIDE BY SIDE ══════════════ -->
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
 ### `~ $ cat about.txt`
 
 ```txt
-┌────────────────────────────────────┐
-│                                    │
-│  > hi, i'm rey.                    │
-│  > i build things on the internet  │
-│    that feel a little different.   │
-│                                    │
-│  ─ experimental ui                 │
-│  ─ browser experiences             │
-│  ─ gamified interfaces             │
-│  ─ aesthetic digital products      │
-│                                    │
-│  $ currently → memorable web exp   │
-│  $ learning  → shaders, motion     │
-│  $ fueled by → lo-fi + midnight    │
-│                                    │
-└────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  > hi, i'm rey.                                  │
+│  > i build things on the internet that feel      │
+│    a little different.                           │
+│                                                  │
+│  ─ experimental ui                               │
+│  ─ browser experiences                           │
+│  ─ gamified interfaces                           │
+│  ─ aesthetic digital products                    │
+│                                                  │
+│  $ currently → memorable internet experiences    │
+│  $ learning  → shaders, motion, system design    │
+│  $ fueled by → lo-fi, midnight tabs, typography  │
+│                                                  │
+└──────────────────────────────────────────────────┘
 ```
 
 </td>
@@ -79,26 +64,26 @@
 ### `~ $ ls projects/`
 
 ```txt
-┌─ projects ─────────────────────────┐
-│                                    │
-│  ▸ browser-os/      ░░             │
-│    desktop in a tab                │
-│                                    │
-│  ▸ cursor-lab/      ▒░             │
-│    custom cursor systems           │
-│                                    │
-│  ▸ type-engine/     ▒▒             │
-│    generative typography           │
-│                                    │
-│  ▸ terminal-ui-kit/ ▓▒             │
-│    minimal shell components        │
-│                                    │
-│  ▸ midnight-board/  ▓▓             │
-│    ambient flow dashboard          │
-│                                    │
-│  status: 5 active · ∞ in backlog   │
-│                                    │
-└────────────────────────────────────┘
+┌─ projects ───────────────────────────────────────┐
+│                                                  │
+│  ▸ browser-os/        ░░                         │
+│    experimental desktop running in a tab         │
+│                                                  │
+│  ▸ cursor-lab/        ▒░                         │
+│    playground for custom cursor systems          │
+│                                                  │
+│  ▸ type-engine/       ▒▒                         │
+│    generative typography for the web             │
+│                                                  │
+│  ▸ terminal-ui-kit/   ▓▒                         │
+│    minimal components with shell aesthetics      │
+│                                                  │
+│  ▸ midnight-board/    ▓▓                         │
+│    ambient dashboard for personal flow state     │
+│                                                  │
+│  status: 5 active  ·  ∞ in the backlog           │
+│                                                  │
+└──────────────────────────────────────────────────┘
 ```
 
 </td>

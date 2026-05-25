@@ -4,16 +4,11 @@
     <img
       width="100%"
       alt="welcome banner"
-      src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=welcome%20to%20the%20machine&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=40&desc=%7C%20creative%20developer%20%C2%B7%20late-night%20builder%20%7C&descAlign=50&descAlignY=66&descSize=14&animation=fadeIn"
-    />
+      src="Frame 1.webp"
   </a>
 </p>
 
 <!-- ══════════════ INTRO ROW ══════════════ -->
-<a href="https://revanshu-portfolio.vercel.app">
-  <img align="right" width="140" src="fav.webp" alt="rey" />
-</a>
-
 <p>
   <a href="#">
     <img

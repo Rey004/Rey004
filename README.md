@@ -4,7 +4,7 @@
     <img
       width="100%"
       alt="welcome banner"
-      src="Frame 1.webp"
+      src="github-banner.webp"
   </a>
 </p>
 

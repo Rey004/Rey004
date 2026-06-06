@@ -35,7 +35,7 @@
 
 ```txt
 ┌──────────────────────────────────────────────────┐
-│  > hi, i'm revanshu.                             │
+│  > hi, i'm revanshuu.                             │
 │  > always trying to build fun things             │
 │    that can wow people.                          │
 │                                                  │

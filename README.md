@@ -44,7 +44,8 @@
 │  ─ design / art                                  │
 │  ─ night owl trying to become an early bird      │
 │                                                  │
-│  $ currently → Figuring out how AI can do my work|
+│  $ currently → Figuring out how AI can do my     |
+|                work                              |
 │  $ learning  → communication + content creation  │
 │  $ fueled by → music, workouts, late-night runs  │
 │  $ location  → india // mostly online            │

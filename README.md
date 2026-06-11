@@ -72,7 +72,7 @@
 │  ▸ ──────────/          ░░  coming soon          │
 │    placeholder · slot reserved                   │
 │                                                  │
-│  status: 2 active  ·  ∞ in the backlog           │
+│  status: 3 active  ·  ∞ in the backlog           │
 └──────────────────────────────────────────────────┘
 ```
 

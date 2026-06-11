@@ -58,14 +58,16 @@
 
 ```txt
 ┌─ projects ───────────────────────────────────────┐
-│  ▸ DinoDash/            ▒▒  building             │
-│    chrome dino reimagined for your new tab       │
+│  ▸ RepoStory/          ░░  live                  │
+│    RepoStory turns any public GitHub repository  |
+|    into a beautifully styled, shareable          |
+|    visual card.                                  │
+|                                                  |
+│  ▸ DinoDash/            ▒▒  live                 │
+│    Chrome Dino reimagined for your new tab       │
 │                                                  │
 │  ▸ Code-Vantage/        ▓▓  live                 │
 │    3d interactive web design agency site         │
-│                                                  │
-│  ▸ ──────────/          ░░  coming soon          │
-│    placeholder · slot reserved                   │
 │                                                  │
 │  ▸ ──────────/          ░░  coming soon          │
 │    placeholder · slot reserved                   │
@@ -80,6 +82,8 @@
 
 <sub>
   ↳ open
+  <a href="https://github.com/Rey004/RepoStory"><code>RepoStory</code></a>
+  ·
   <a href="https://github.com/Rey004/DinoDash"><code>DinoDash</code></a>
   ·
   <a href="https://codevantage.in/"><code>Code-Vantage</code></a>

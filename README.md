@@ -60,20 +60,23 @@
 ```txt
 ┌─ projects ───────────────────────────────────────┐
 │  ▸ RepoStory/          ░░  live                  │
-│    RepoStory turns any public GitHub repository  |
-|    into a beautifully styled, shareable          |
-|    visual card.                                  │
+│    RepoStory turns any public GitHub             |
+|    repository into a beautifully styled,         |
+|    shareable visual card.                        │
 |                                                  |
 │  ▸ DinoDash/            ▒▒  live                 │
-│    Chrome Dino reimagined for your new tab       │
+│    Chrome Extention that let you have chrome     |
+|    new tab ui                                    │
+│                                                  │
+│  ▸ shellmaxxing/          ░░  live               │
+│    A package that gives you commands, there      |
+|    explaination and risk analysis by simple      |
+|    input statements                              │
 │                                                  │
 │  ▸ Code-Vantage/        ▓▓  live                 │
 │    3d interactive web design agency site         │
 │                                                  │
-│  ▸ ──────────/          ░░  coming soon          │
-│    placeholder · slot reserved                   │
-│                                                  │
-│  status: 3 active  ·  ∞ in the backlog           │
+│  status: 4 active  ·  ∞ in the backlog           │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -87,6 +90,8 @@
   ·
   <a href="https://github.com/Rey004/DinoDash"><code>DinoDash</code></a>
   ·
+  <a href="https://github.com/Rey004/shellmaxxing"><code>shellmaxxing</code></a>
+  ·
   <a href="https://codevantage.in/"><code>Code-Vantage</code></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Rey004?tab=repositories">all repos →</a>
@@ -97,7 +102,7 @@
 <p align="center">
   <a href="https://github.com/Rey004">
     <img
-      height="165"
+      width="60%"
       alt="streak stats"
       src="https://streak-stats.demolab.com?user=Rey004&hide_border=true&background=0d0d0d&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=ffffff&dates=999999"
     />
